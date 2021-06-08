@@ -1,6 +1,8 @@
-# AngularCrash
+# Task Manager (Angular Crash Course)
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 11.2.12.
+
+You can take a look at the live version of this project in: https://diego1409.github.io/angular-crash/
 
 ## Development server
 
